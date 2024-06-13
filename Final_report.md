@@ -37,14 +37,14 @@
 
 ### 資料庫設計
 * 資料庫關聯聯表
-![image](https://hackmd.io/_uploads/BJ2KHGdSA.png)
+![image](https://github.com/TandyLiao/Final_report/blob/master/picture/database_table1.jpg)
 
 * 範例
 
 
-![image](https://hackmd.io/_uploads/SkVHuM_B0.png)
+![image](https://github.com/TandyLiao/Final_report/blob/master/picture/database_table2.jpg)
 
-![image](https://hackmd.io/_uploads/ByVK_f_HC.png)
+![image](https://github.com/TandyLiao/Final_report/blob/master/picture/database_table3.jpg)
 
 
 
