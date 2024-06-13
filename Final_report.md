@@ -53,7 +53,7 @@
 
 
 ## 3.本學期人員工作分配表
-![image](https://github.com/TandyLiao/Final_report/blob/master/work.jpg)
+![image]([https://github.com/TandyLiao/Final_report/blob/master/work.jpg](https://github.com/TandyLiao/Final_report/blob/master/picture/work.jpg)
 
 
 ## 4.進度規劃表(以週為單位，排到9月系內比賽為止)
