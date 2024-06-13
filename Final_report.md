@@ -57,7 +57,7 @@
 
 
 ## 4.進度規劃表(以週為單位，排到9月系內比賽為止)
-![image](https://hackmd.io/_uploads/B1GYDVOHA.png)
+![image](https://github.com/TandyLiao/Final_report/blob/master/picture/schedule.jpg)
 
 
 [工作分配表+進度規劃表.excel檔](https://docs.google.com/spreadsheets/d/1MiM2Hbb8UABczeX4zS8725r9vvnaXdFo/edit?usp=drive_link&ouid=107554936465922559108&rtpof=true&sd=true)
