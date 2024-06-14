@@ -10,6 +10,7 @@
 
 ### 特色（與類似作品相比的勝出之處）
 ![image](https://github.com/TandyLiao/Final_report/blob/master/picture/Compare.jpg)
+
 相比於現有的行程提醒和導航應用程式，「地圖鬧鐘」具備以下特色和優勢：
 
 * 精確的到站提醒：根據用戶設置的目標地點，在接近目的地時提供準確的提醒，避免坐過站。
